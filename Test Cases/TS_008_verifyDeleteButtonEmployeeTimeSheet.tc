@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TS_008_verifyDeleteButtonEmployeeTimeSheet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2cf8b83-59ef-4522-a778-7d3f438d4462</testCaseGuid>
+</TestCaseEntity>

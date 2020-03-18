@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TS_006_sentEmailCSVReport</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d8402f1-5e5d-43b8-91c9-beb1740dda57</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AP_002_verifyDeleteButtonAdminPanel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43775b81-3d63-43e5-93ed-fbf495a8faef</testCaseGuid>
+</TestCaseEntity>

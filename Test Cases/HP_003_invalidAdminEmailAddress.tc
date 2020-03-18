@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HP_003_invalidAdminEmailAddress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>44ee68e7-5ec7-43e8-a763-52995d3886c9</testCaseGuid>
+</TestCaseEntity>

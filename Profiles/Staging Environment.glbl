@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Staging Environment</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://admin-stag.picnyk.com/login'</initValue>
+      <name>loginURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://admin-stag.picnyk.com/timesheet'</initValue>
+      <name>timesheetURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://admin-stag.picnyk.com/employee'</initValue>
+      <name>adminPanelURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://admin-stag.picnyk.com/global'</initValue>
+      <name>globalsettingsURL</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
